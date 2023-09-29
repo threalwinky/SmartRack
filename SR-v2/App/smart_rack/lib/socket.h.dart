@@ -1,6 +1,6 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 'temphumi.dart';
+part of 'socket.dart';
 
 // **************************************************************************
 // JsonSerializableGenerator

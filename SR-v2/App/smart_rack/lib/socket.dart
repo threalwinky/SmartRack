@@ -1,6 +1,6 @@
 import 'package:json_annotation/json_annotation.dart';
 
-part './temphumi.h.dart';
+part 'socket.h.dart';
 
 @JsonSerializable(explicitToJson: true)
 class TempHumi {
